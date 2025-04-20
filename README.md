@@ -14,11 +14,6 @@ A robust, production-ready Django boilerplate with a complete CI/CD pipeline, Do
 
 ---
 
-## 📁 Project Structure
-
-├── app/ # Django project │ └── myproject/ │ └── settings/ # base.py, dev.py, staging.py, prod.py ├── docker-compose.yml # Development environment ├── docker-compose.staging.yml ├── docker-compose.prod.yml ├── .env.dev # Environment variables for dev ├── .env.staging ├── .env.prod ├── requirements.txt ├── pytest.ini ├── tests/ # Example test ├── .github/workflows/ci.yml # GitHub Actions CI └── deploy/ # AWS deploy script & docs
-
-
 ---
 
 ## 🚀 Getting Started
