@@ -23,17 +23,11 @@ A robust, production-ready Django boilerplate with a complete CI/CD pipeline, Do
 
 ## 🚀 Getting Started
 
-### 1. Clone the repository
+### Clone the repository
 
 ```bash
 git clone https://github.com/sfantaye/django-pipeline.git
 cd django-pipeline
-
-### 2. Run in Development
-docker-compose up --build
-
-### 3. Run Tests
-docker-compose exec web pytest
 
 
 BY SINTAYEHU FANTAYE
